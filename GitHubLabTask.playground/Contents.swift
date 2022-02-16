@@ -12,3 +12,6 @@ var test = "test"
 
 var friend = "Abdullah 😀"
 
+
+print("git kracken 😆😆")
+
